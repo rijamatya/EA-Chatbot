@@ -1,0 +1,72 @@
+[
+  {
+    "question": "When was NEA established?",
+    "answer": "Nepal Electricity Authority was established in August 16, 1985",
+    "variations": [
+      {
+        "question": "On what date was the Nepal Electricity Authority founded?",
+        "answer": "The Nepal Electricity Authority was founded on August 16, 1985."
+      },
+      {
+        "question": "When exactly did the Nepal Electricity Authority come into existence?",
+        "answer": "The Nepal Electricity Authority came into existence on August 16, 1985."
+      }
+    ]
+  },
+  {
+    "question": "How was Nepal Electricity Authority (NEA) created?",
+    "answer": "NEA was created through the merger of the Department of Electricity, Nepal Electricity Corporation, and related Development Boards under the Nepal Electricity Authority Act 1984.",
+    "variations": [
+      {
+        "question": "Under what act was NEA established?",
+        "answer": "NEA was established under the Nepal Electricity Authority Act 1984."
+      }
+    ]
+  },
+  {
+    "question": "Why was the merger to create NEA necessary?",
+    "answer": "The merger was necessary to remedy the inherent weaknesses of fragmented electricity organizations with overlapping and duplication of works, in order to achieve efficiency and reliable service.",
+    "variations": [
+      {
+        "question": "What was the main reason for merging the different electricity entities into NEA?",
+        "answer": "The main reason was to overcome the weaknesses of fragmented organizations, eliminate overlapping and duplication of work, and improve efficiency and service reliability."
+      },
+      {
+        "question": "What problems did the merger of electricity organizations aim to solve?",
+        "answer": "The merger aimed to solve problems of fragmentation, overlapping responsibilities, and duplication of work to create a more efficient and reliable electricity authority."
+      }
+    ]
+  },
+  {
+    "question": "What is the primary objective of NEA?",
+    "answer": "The primary objective of NEA is to generate, transmit and distribute adequate, reliable and affordable power by planning, constructing, operating and maintaining all generation, transmission and distribution facilities in Nepal's power system.",
+    "variations": [
+      {
+        "question": "What are the main goals of Nepal Electricity Authority?",
+        "answer": "NEA's main goals are to generate, transmit, and distribute sufficient, reliable, and affordable electricity across Nepal's power system."
+      },
+      {
+        "question": "How does NEA plan to achieve its primary objective?",
+        "answer": "NEA plans to achieve its objective by planning, constructing, operating, and maintaining all power generation, transmission, and distribution facilities in Nepal."
+      }
+    ]
+  },
+  {
+    "question": "What are NEA's major responsibilities besides its primary objective?",
+    "answer": "NEA's major responsibilities include recommending power sector plans and policies to the government, recommending and determining electricity tariffs with government approval, and arranging training to produce skilled manpower.",
+    "variations": [
+      {
+        "question": "What role does NEA play in advising the government?",
+        "answer": "NEA is responsible for recommending long and short-term plans and policies in the power sector to the Government of Nepal."
+      },
+      {
+        "question": "Who determines electricity tariffs in Nepal and how?",
+        "answer": "NEA recommends and determines tariff structures, which are then realized with prior approval from the Government of Nepal."
+      },
+      {
+        "question": "How does NEA contribute to manpower development?",
+        "answer": "NEA arranges for training and study programs to produce skilled manpower in generation, transmission, distribution, and other sectors."
+      }
+    ]
+  }
+]
